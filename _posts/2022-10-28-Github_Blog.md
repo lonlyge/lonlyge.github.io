@@ -11,11 +11,11 @@ tags: 经验 学习
 
 > 首先得注册一个GitHub账号。点击<a href="https://www.github.com">进入官网</a>
 
-![](F:\profile\www\lonlyge.github.io\images\posts\github\github1.jpg)
+![](./images/posts/github/github1.jpg)
 
 > 按提示填写资料，邮箱一定要能接收验证码，最后点击**Create an account**完成注册，选free版即可。
 
-![](F:\profile\www\lonlyge.github.io\images\posts\github\github2.png)
+![](/images/posts/github/github2.png)
 
 > 最后进入这个类似首页的节面。点击右上角头像，个人项目主页之类的入口都在这里。
 
@@ -25,7 +25,7 @@ tags: 经验 学习
 >
 > 点击上图头像旁边的“**+**” ，选择New Repositories
 
-![](F:\profile\www\lonlyge.github.io\images\posts\github\github3.png)
+![](/images/posts/github/github3.png)
 
 > 给自己的repositories取个名字，格式最好为把上图中*替换成你的用户名。
 >
@@ -33,11 +33,11 @@ tags: 经验 学习
 >
 > 随后跳转到该库的界面，里面有没有文件不用管，点击Settings
 
-![](F:\profile\www\lonlyge.github.io\images\posts\github\github4.png)
+![](/images/posts/github/github4.png)
 
 进入settings后，往下拉，找到GitHub pages设置界面
 
-![](F:\profile\www\lonlyge.github.io\images\posts\github\github5.png)
+![](/images/posts/github/github5.png)
 
 > 按上图选择，下方箭头处可以添入自定义域名。
 >
@@ -54,7 +54,7 @@ tags: 经验 学习
 将刚建好的repositories的url复制过来，点击Clone。Localpath这里选择本地存放项目文件的位置。
 ```
 
-![](F:\profile\www\lonlyge.github.io\images\posts\github\github6.png)
+![](/images/posts/github/github6.png)
 
 ```
 clone完成后，你会发现你刚才选择的位置路径下多了一个以域名命名的文件夹。
@@ -80,17 +80,21 @@ clone完成后，你会发现你刚才选择的位置路径下多了一个以域
 打开GitHub桌面版，你会发现有很多Changes,如下图在summary中随意填一些内容，然后commit to main(提交到main)
 ```
 
-![](F:\profile\www\lonlyge.github.io\images\posts\github\github7.png)
+![](/images/posts/github/github7.png)
 
 ```
 右侧出现“push origin"（推送origin）按钮，点击即可
 ```
 
-![](F:\profile\www\lonlyge.github.io\images\posts\github\github8.png)
+![](/images/posts/github/github8.png)
 
 ```
 然后回到GitHub网站上，你会发现该库文件下多了很多文件
 到这里也就差不多了，可以输入地址访问自己的博客了，剩下的就该自己优化博客了。
 说明，博客首页为index.htm文件，也是默认起始页面。
 ```
+
+> 是不是很简单，不需要繁琐的代码。
+
+
 
