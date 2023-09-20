@@ -11,7 +11,7 @@ tags: 经验 学习
 
 > 首先得注册一个GitHub账号。点击<a href="https://www.github.com">进入官网</a>
 
-![](./images/posts/github/github1.jpg)
+![](/images/posts/github/github1.jpg)
 
 > 按提示填写资料，邮箱一定要能接收验证码，最后点击**Create an account**完成注册，选free版即可。
 
