@@ -9,14 +9,14 @@ tags: 经验 学习
 
 [github项目地址]([Releases · docker/compose (github.com)](https://github.com/docker/compose)) 
 
-#### 1.命令行下载
+## 1.命令行下载
 
 ```
 $ curl -SL https://github.com/docker/compose/releases/download/v2.20.3/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose
 #需要能连接GitHub的网络环境
 ```
 
-#### 2.点击上方下载地址，按照系统需要自行下载
+## 2.点击上方下载地址，按照系统需要自行下载
 
 ```
 上传到 /usr/bin/ 或者 /usr/local/bin/
