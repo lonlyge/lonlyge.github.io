@@ -6,7 +6,6 @@ tags: 经验 学习
 ---
 # openwrt安装docker-compose
 
-## 下载
 
 [github项目地址]([Releases · docker/compose (github.com)](https://github.com/docker/compose)) 
 
