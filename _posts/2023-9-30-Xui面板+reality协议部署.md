@@ -58,7 +58,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 
 ```
 
-![](E:\lonlyge.github.io\images\posts\github\093001.png)
+![](/images/posts/github/093001.png)
 
 
 
@@ -95,23 +95,23 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 >
 > 配置加分项：禁回国流量，TCP/80、UDP/443 也转发（REALITY 对外表现即为端口转发，目标 IP 冷门或许更好）
 
-[查看TLS点这里]([Qualys SSL Labs - Projects](https://www.ssllabs.com/projects/index.html))
+[查看TLS点这里](https://www.ssllabs.com/projects/index.html)
 
 1. 进入网址，点击[<font color="#dd0000">SSL Server Test</font>]，输入网址或点击下方网址，查看网址详情中的[<font color="#dd0000">Protocols</font>]中的“TLS1.3”是否为”yes”
 
    > 如点击网址出现多个IP，选择ipv4地址
 
-![](E:\lonlyge.github.io\images\posts\github\093002.png)
+![](/images/posts/github/093002.png)
 
 2. 复制适合的网址到浏览器中打开，F12检查网页，找到[<font color="#dd0000">安全</font>]查看（如没有“安全”项，点击右边“+”调出）
 
-   ![](E:\lonlyge.github.io\images\posts\github\093003.png)
+   ![](/images/posts/github/093003.png)
 
 3. 点击[<font color="#dd0000">网络</font>]，刷新页面，查看[<font color="#dd0000">协议</font>]是否支持[<font color="#dd0000">h2</font>]
 
    ![](E:\lonlyge.github.io\images\posts\github\093004.png)
 
-4. [点这里查看目标网是否支持"OCSP Stapling"]((chacuo.net)](http://web.chacuo.net/netocspstapling))（不支持也关系不大）
+4. [点这里查看目标网是否支持"OCSP Stapling"](http://web.chacuo.net/netocspstapling)（不支持也关系不大）
 
    
 
@@ -125,7 +125,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 
 > 添加入站，配置方法很简单，按下图修改即可，其他不明白用处的地方都可以不变
 
- ![](E:\lonlyge.github.io\images\posts\github\093005.png)
+ ![](/images/posts/github/093005.png)
 
 
 
@@ -137,11 +137,11 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 
 - Windows
 
-  [v2rayN]([Releases · 2dust/v2rayN (github.com)](https://github.com/2dust/v2rayN))
+  [v2rayN](https://github.com/2dust/v2rayN)
 
 - Android
 
-  [v2rayNG]([2dust/v2rayNG: A V2Ray client for Android, support Xray core and v2fly core (github.com)](https://github.com/2dust/v2rayNG))
+  [v2rayNG](https://github.com/2dust/v2rayNG)
 
 - IOS
 
@@ -149,4 +149,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 
 - MacOS
 
-  [v2rayU]((github.com)](https://github.com/yanue/V2rayU))
+  [v2rayU](https://github.com/yanue/V2rayU)
