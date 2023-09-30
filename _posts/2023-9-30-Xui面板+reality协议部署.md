@@ -13,11 +13,11 @@ tags: 经验 学习
 
 > [RackNerd垃圾vps]((https://www.racknerd.com/))
 
-> [魔改x-ui]((v2rayssr.com)](https://v2rayssr.com/go?url=https://github.com/FranzKafkaYu/x-ui/))
+> [魔改x-ui](https://v2rayssr.com/go?url=https://github.com/FranzKafkaYu/x-ui/)
 >
-> [Reality]([XTLS/REALITY: THE NEXT FUTURE (github.com)](https://github.com/XTLS/REALITY))
+> [Reality](https://github.com/XTLS/REALITY)
 
-> [查找目标网址]([Qualys SSL Labs - Projects](https://www.ssllabs.com/projects/index.html))
+> [查找目标网址](https://www.ssllabs.com/projects/index.html)
 
 
 
