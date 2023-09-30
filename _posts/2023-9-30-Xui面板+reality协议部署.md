@@ -11,7 +11,7 @@ tags: 经验 学习
 
 ## 准备工作
 
-> [RackNerd垃圾vps]((https://www.racknerd.com/))
+> [RackNerd垃圾vps](https://www.racknerd.com/)
 
 > [魔改x-ui](https://v2rayssr.com/go?url=https://github.com/FranzKafkaYu/x-ui/)
 >
