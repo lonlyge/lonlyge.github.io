@@ -109,7 +109,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 
 3. 点击[<font color="#dd0000">网络</font>]，刷新页面，查看[<font color="#dd0000">协议</font>]是否支持[<font color="#dd0000">h2</font>]
 
-   ![](E:\lonlyge.github.io\images\posts\github\093004.png)
+   ![](/images/posts/github/093004.png)
 
 4. [点这里查看目标网是否支持"OCSP Stapling"](http://web.chacuo.net/netocspstapling)（不支持也关系不大）
 
